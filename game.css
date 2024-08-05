@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f58d8d;
+}
+
+.container {
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
